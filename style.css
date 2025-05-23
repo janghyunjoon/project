@@ -29,7 +29,7 @@ body {
   width: 100%;      
   font-weight:600;
   font-size: 25px;
-  background: url("/image/메인이미지.png");
+  background: url("메인이미지.png");
   height: 70px;
   display: flex;
   justify-content: space-between;
